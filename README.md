@@ -1,6 +1,3 @@
-### Olá 👋
-<br>
-
 ![JhonataDeLima's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonataDeLima&show_icons=true&theme=transparent)
 
 ## Tecnologias que uso no meu dia
